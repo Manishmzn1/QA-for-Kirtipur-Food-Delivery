@@ -1,0 +1,15 @@
+{
+    "validUser": {
+      "username": "manmzn9@gmail.com",
+      "password": "Kirtipur@1"
+    },
+    "invalidUser": {
+      "username": "manmzn9@gmail.com",
+      "password": "Kirtipur@1",
+      "invalidUsername": "manmzn@gmail.com",
+      "invalidPassword": "Password12",
+      "emptyUsername": "",
+      "emptyPassword": ""
+    }
+  }
+  
